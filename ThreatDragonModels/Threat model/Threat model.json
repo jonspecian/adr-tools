@@ -1,9 +1,16 @@
 {
   "summary": {
-    "title": "Threat model"
+    "title": "Threat model",
+    "owner": "Jonathan Specian"
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "Threat Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
   }
 }
